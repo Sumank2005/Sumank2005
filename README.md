@@ -178,7 +178,7 @@ Output : Better Electronics Engineer Every Day
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="linkedin.com/in/sumank2053">
+  <a href="https://www.linkedin.com/in/sumank2053/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sumank2053@gmail.com">
